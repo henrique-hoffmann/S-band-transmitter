@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "mainboard") (type "KiCad") (uri "${KIPRJMOD}/library/mainboard.kicad_sym") (options "") (descr ""))
+	(lib (name "GRF5115") (type "KiCad") (uri "${KIPRJMOD}/library/2026-08-26_03-13-42.kicad_sym") (options "") (descr ""))
+)

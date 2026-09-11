@@ -526,7 +526,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sband_transmitter.kicad_pro",
+    "filename": "LimeSDR-Mini_2v4.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -1697,7 +1697,6 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "sband_transmitter.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -1815,8 +1814,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "sband_transmitter.kicad_sch",
-        "name": "sband_transmitter",
+        "filename": "LimeSDR-Mini_2v4.kicad_sch",
+        "name": "03_Clock_Diagram",
         "uuid": "abe25270-a742-4ca7-a7eb-3e34a022e979"
       },
       {

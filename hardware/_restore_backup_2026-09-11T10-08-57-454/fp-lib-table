@@ -2,5 +2,5 @@
 	(version 7)
 	(lib (name "library") (type "KiCad") (uri "${KIPRJMOD}/library/mainboard.pretty") (options "") (descr ""))
 	(lib (name "mainboard") (type "KiCad") (uri "${KIPRJMOD}/library/mainboard.pretty") (options "") (descr ""))
-	(lib (name "GRF5115") (type "KiCad") (uri "${KIPRJMOD}/library/GRF5115/KiCad") (options "") (descr ""))
+	(lib (name "mainboard") (type "KiCad") (uri "${KIPRJMOD}/library/mainboard.pretty") (options "") (descr ""))
 )
